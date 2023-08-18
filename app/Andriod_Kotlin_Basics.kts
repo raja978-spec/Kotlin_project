@@ -1,4 +1,4 @@
-//           ABOUT KOTLIN
+//              ABOUT KOTLIN
 /*
 
   * Kotlin is statically typed language that runs
@@ -11,7 +11,7 @@
     compare to java
 
 
-           FEATURES OF KOTLIN
+                 FEATURES OF KOTLIN
 
    * Concise (less code)
    * Interoperable
@@ -19,5 +19,13 @@
    * Easy
    * Less error
 
+
+            LIFE CYCLE OF RUNNING PROCESS
+
+    * It generates the byte code first when it is run on JVM
+      and that byte code will be converted to actual low level
+      code.
+
+    * And also it creates ex 5.1 file from kt file
 
  */
